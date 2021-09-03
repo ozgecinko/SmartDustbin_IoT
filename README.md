@@ -13,4 +13,4 @@ git clone https://github.com/ozgecinko/SmartDustbin_IoT.git
 ```
 
 ### References
-[IoT Based Garbage Monitoring System](https://electronics-project-hub.com/iot-based-garbage-monitoring-system)
+- [IoT Based Garbage Monitoring System](https://electronics-project-hub.com/iot-based-garbage-monitoring-system)
